@@ -28,7 +28,7 @@
 <h1>Números Primos</h1>
 <h3>Ingrese solo números positivos</h3>
 
-<form action="registro" method="post">
+<form action="/ejercicioprimos/registro" method="post">
     <div class="form-group">
         <label for="numero1">Número 1 (Inicio del rango):</label>
         <input type="number" name="numero1" id="numero1" required/>
